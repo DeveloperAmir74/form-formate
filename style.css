@@ -1,0 +1,33 @@
+
+
+/* from-section */
+
+textarea#exampleFormControlTextarea1 {
+    transform: translate(10px, 10px);
+    height: 150px;
+}
+
+.form-div1:hover {
+    box-shadow: 5px 5px 30px rgba(98, 121, 223, 0.851);
+}
+
+h5.text-center6 {
+    transform: translate(0px, -18px);
+}
+
+button.btn.btn-outline-dark.w-25.mt-lg-5.btn {
+    transform: translate(200px, 10px);
+}
+
+.btn4 {
+    background-color: #6278df;
+    color: white;
+    font-weight: 900;
+}
+
+.btn4:hover {
+    background-color: white;
+    color: rgba(98, 121, 223, 0.938);
+    font-weight: 900;
+    box-shadow: 4px 5px 25px rgba(98, 121, 223, 0.938);
+}
